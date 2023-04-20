@@ -8,3 +8,6 @@ Solve the traveling salesman problem with Djibouti - 38 Cities in https://www.ma
 5. Genetic Algorithm (using PyGAD module)
 
 MCMC RE has the best performance
+
+
+![Image text](https://github.com/576774572/image/blob/main/tsp.png)  
